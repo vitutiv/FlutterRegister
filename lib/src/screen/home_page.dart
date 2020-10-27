@@ -1,5 +1,5 @@
-import 'package:cadastro_app/widget/home_image.dart';
-import 'package:cadastro_app/widget/register_button.dart';
+import 'package:cadastro_app/src/widget/home_image.dart';
+import 'package:cadastro_app/src/widget/register_button.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 

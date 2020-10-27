@@ -1,8 +1,8 @@
-import 'package:cadastro_app/widget/areacode_input.dart';
-import 'package:cadastro_app/widget/email_input.dart';
-import 'package:cadastro_app/widget/phone_input.dart';
-import 'package:cadastro_app/widget/name_input.dart';
-import 'package:cadastro_app/widget/submit_button.dart';
+import 'package:cadastro_app/src/widget/areacode_input.dart';
+import 'package:cadastro_app/src/widget/email_input.dart';
+import 'package:cadastro_app/src/widget/phone_input.dart';
+import 'package:cadastro_app/src/widget/name_input.dart';
+import 'package:cadastro_app/src/widget/submit_button.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 

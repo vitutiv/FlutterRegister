@@ -1,5 +1,5 @@
-import 'package:cadastro_app/model/user.dart';
-import 'package:cadastro_app/widget/home_image.dart';
+import '../model/user.dart';
+import '../widget/home_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 

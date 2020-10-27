@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:cadastro_app/model/user.dart';
+import '../model/user.dart';
 import 'package:rxdart/rxdart.dart';
 import 'register_validation.dart';
 

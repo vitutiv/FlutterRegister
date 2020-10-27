@@ -1,7 +1,6 @@
-import 'package:cadastro_app/model/user.dart';
-import 'package:cadastro_app/screen/welcome_page.dart';
-
-import '../src/bloc/register_bloc.dart';
+import '../model/user.dart';
+import '../screen/welcome_page.dart';
+import '../bloc/register_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';

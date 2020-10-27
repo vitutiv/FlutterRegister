@@ -1,4 +1,4 @@
-import 'package:cadastro_app/src/bloc/register_bloc.dart';
+import '../bloc/register_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
